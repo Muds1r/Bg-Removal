@@ -2,7 +2,11 @@ import React from 'react'
 
 const BuyCredit = () => {
   return (
-    <div>BuyCredit</div>
+    <div>
+      <div>
+
+      </div>
+    </div>
   )
 }
 
